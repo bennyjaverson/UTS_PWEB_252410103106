@@ -617,3 +617,18 @@ a:focus-visible,
         flex-wrap: wrap;
     }
 }
+body {
+    min-height: 100vh;
+    min-height: 100dvh;
+    display: flex;
+    flex-direction: column;
+}
+body > main {
+    flex: 1 0 auto;
+}
+.gv-login {
+    min-height: 0;
+}
+.footer {
+    flex-shrink: 0;
+}
