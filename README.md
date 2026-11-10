@@ -99,5 +99,4 @@ resources/views/
 ## Referensi
 
 - [Panduan Pelaksanaan UTS Pemrograman Web 2026](https://adyahandika.my.id/course/pemrograman-web/panduan-pelaksanaan-uts-pemrograman-web-2026).
-- [Referensi tampilan](https://github.com/ironlad1621G/UTS_PWEB_252410103068), untuk inspirasi warna dan suasana.
 - [Steam](https://store.steampowered.com/) dan [Epic Games Store](https://store.epicgames.com/), sebagai referensi visual untuk konsep katalog game.
